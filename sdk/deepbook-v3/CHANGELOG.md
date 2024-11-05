@@ -1,5 +1,11 @@
 # @mysten/deepbook-v3
 
+## 0.12.4
+
+### Patch Changes
+
+- 6a571f1: Deep conversion
+
 ## 0.12.3
 
 ### Patch Changes
